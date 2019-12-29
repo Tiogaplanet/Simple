@@ -1,0 +1,3 @@
+<strong>Simple - The Arduino UNO-compatible development system</strong>
+
+<p>An Arduino UNO-compatible development kit using pin-through hole (PTH) components and an off-board Universal Serial Bus (USB) adapter.  The use of PTH components and removing the USB adapter makes this kit super easy to modify and hack.  Based on Sparkfun's retired RedBoard kit.</p>
